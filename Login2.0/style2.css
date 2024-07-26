@@ -7,7 +7,7 @@ body{margin: 0px;
 
 }
 
-p{color: white;
+p{color: #9169BF;
   padding: 5px;
 
 }
@@ -16,6 +16,7 @@ a{text-decoration: none;
     padding: 5px 10px 5px 10px;
     z-index: 3;
     position: relative;
+    color:white;
 }
 
 a:hover{
